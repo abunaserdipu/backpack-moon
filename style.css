@@ -1,0 +1,100 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+/* Navbar start*/
+.navbar-brand img{
+    width: 300px;
+}
+
+.link-color{
+    color: #3C3C3C;
+    font-weight: 600;
+}
+/* Navbar end */
+/* Banner start */
+.banner .header-color, .header-color-1, .header-color-2{
+    font-weight: 500;
+    font-family: 'Bebas Neue', cursive;
+}
+.header-color{
+    color: #363958;
+    font-size: 80px;
+}
+.header-color-1{
+    color: #76C27E;
+    font-size: 80px;
+    
+}
+.p{
+    color: #3E3E3E;
+    font-size: 16px;
+    font-weight: 500;
+}
+.banner img{
+    width: 100%;
+}
+/* Banner end */
+/* Categories start */
+.categories img{
+    width: 70px;
+    border: 0;
+}
+.different img{
+    width: 100%;
+}
+.border-remove{
+    border: 0;
+}
+/* Categories end */
+/* Casual & Travel start */
+.header-color-2{
+    color: #363958;
+    font-size: 40px;
+}
+.header-color-5{
+    color: #363958;
+    font-weight: 600;
+}
+.price-color{
+    color: #76C27E;
+    font-weight: 700;
+}
+.card-border{
+    border: 0;
+}
+.card-border img{
+    background-color: rgba(211, 211, 211, 0.4);
+    width: 310px;
+    margin: auto;
+    border-radius: 15px;
+}
+.footer-border{
+    background-color: #FFFFFF;
+    border: 0;
+}
+.buy-btn{
+    background-color: #2A1E59;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+/* Casual & Travel end */
+/* Additional start */
+.moon-submit{
+    background-color: #76C27E;
+    height: 300px;
+}
+.submit-btn{
+    background-color: #2A1E59;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 500;
+}
+footer{
+    text-align: center;
+}
+/* Additional end */
+
